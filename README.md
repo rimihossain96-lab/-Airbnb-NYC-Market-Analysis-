@@ -5,7 +5,7 @@ Exploratory Data Analysis (EDA) of Airbnb market data to identify pricing trends
 
 This project analyzes Airbnb listing data in New York City to uncover patterns, pricing trends, customer behavior, and neighborhood-level demand insights.  
 
-The dataset used: *Airbnb_NYC2019.csv*  
+The dataset used:  *Airbnb_NYC2019.csv*  
 
 The analysis is performed using Python in Jupyter Notebook (Airbnb.ipynb).  
 
